@@ -1,0 +1,505 @@
+@font-face {
+    font-family: 'Diphylleia'; /* 산하엽체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Diphylleia.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gowun_Batang_R'; /* 고운바탕-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Batang_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gowun_Batang_B'; /* 고운바탕-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Batang_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gowun_Dodum_R'; /* 고운돋움체-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Dodum_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dongle_Light'; /* 동글-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dongle_Regular'; /* 동글-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dongle_Bold'; /* 동글-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Thin'; /* 함렡-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_ExtraLight'; /* 함렡-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Light'; /* 함렡-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Regular'; /* 함렡-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Medium'; /* 함렡-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_SemiBold'; /* 함렡-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Bold'; /* 함렡-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_ExtraBold'; /* 함렡-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hahmlet_Black'; /* 함렡-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Black_Han_Sans'; /* 검은 고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Black_Han_Sans/Black_Han_Sans.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gasoek_One'; /* 가석체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Gasoek_One.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Moirai_One'; /* 모이라이체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Moirai_One.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bagel_Fat_One'; /* 베이글 팻체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Bagel_Fat_One.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Orbit'; /* 오르빗체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Orbit.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Grandiflora_One'; /* 능소화체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Grandiflora_One.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '109squirrel_tail'; /* 109다람쥐꼬리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109squirrel_tail.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '109Box_tape'; /* 109박스테이프체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109Box_tape.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '109LeantheWall'; /* 109벽에기댄체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109LeantheWall.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '116watermelon'; /* 116수박화체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116watermelon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '116angduk_honesty1.5'; /* 116앵덕정직1.5 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116angduk_honesty1.5.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '116angmuburi'; /* 116앵무부리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116angmuburi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DOSGothic'; /* 도스고딕체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSGothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DOSMyungjo'; /* 도스명조체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSMyungjo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DOSSaemmul'; /* 도스샘물체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSSaemmul.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DOSIyagiBoldface'; /* 도스이야기 굵은체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSIyagiBoldface.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DOSPilgi'; /* 도스필기체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSPilgi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MiraeroNormal'; /* 미래로체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/MiraeroNormal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sam3KRFont'; /* 삼국지3폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/Sam3KRFont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGaeulsenggak_Thin'; /* HS가을생각체1.0 Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulsenggak_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGaeulsenggak_Regular'; /* HS가을생각체1.0 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulsenggak_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGaeulSenggak_2.0'; /* HS가을생각체2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulSenggak_2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGyoulnoonkot'; /* HS겨울눈꽃체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGyoulnoonkot.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGyoulnoonkot_2.0'; /* HS겨울눈꽃체2.0-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGyoulnoonkot_2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSGooltokki'; /* HS굴토끼체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGooltokki.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSDuggobi'; /* HS두꺼비체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSDuggobi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSBomBaram2.0'; /* HS봄바람체2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSBombaram_2.1'; /* HS봄바람체2.1 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBombaram_2.1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSBomBaram3.0_Thin'; /* HS봄바람체3.0_Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram3.0_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSBomBaram3.0_Regular'; /* HS봄바람체3.0_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram3.0_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSSantokki'; /* HS산토끼체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSantokki.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSSaemaul'; /* HS새마을체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSaemaul.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSYeoleum'; /* HS여름물빛체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYeoleum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSYeoleum_2.0'; /* HS여름물빛체2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYeoleum_2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSYuji'; /* HS유지체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYuji.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSJiptokki_Black'; /* HS집토끼-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJiptokki_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HSJiptokki_Round'; /* HS집토끼-Round */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJiptokki_Round.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-Thin'; /* Interop-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-ExtraLight'; /* Interop-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-Light'; /* Interop-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-Regular'; /* Interop-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-Medium'; /* Interop-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-SemiBold'; /* Interop-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-Bold'; /* Interop-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Interop-ExtraBold'; /* Interop-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Interop/Interop-ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Ganpan'; /* KCC-간판체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ganpan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Kimhwanki'; /* KCC-김환기체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Kimhwanki.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Kimhoon'; /* KCC-김훈체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Kimhoon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCCDodamdodam'; /* KCC-도담도담체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCDodamdodam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Murukmuruk'; /* KCC-무럭무럭체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Murukmuruk.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Sonkeechung'; /* KCC-손기정체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Sonkeechung.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Ahnjunggeun'; /* KCC-안중근체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ahnjunggeun.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Ahnchangho'; /* KCC-안창호체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ahnchangho.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-eunyoung'; /* KCC-은영체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-eunyoung.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCCImkwontaek'; /* KCC-임권택체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCImkwontaek.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Jeongbeom'; /* KCC-정범체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Jeongbeom.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCCChassam'; /* KCC-차쌤체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCChassam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCC-Hanbit'; /* KCC-한빛체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Hanbit.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Thin'; /* MonoplexKR-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_ExtraLight'; /* MonoplexKR-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Light'; /* MonoplexKR-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Regular'; /* MonoplexKR-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Text'; /* MonoplexKR-Text */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Text.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Medium'; /* MonoplexKR-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_SemiBold'; /* MonoplexKR-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_SemiBol.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Monoplex_KR_Bold'; /* MonoplexKR-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Monoplex/Monoplex_KR_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Neodgm'; /* Neo둥근모 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Neodgm/Neodgm.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SF_IceLemon'; /* SF레몬빙수 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_IceLemon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SF_IceMango'; /* SF망고빙수 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_IceMango.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SF_HailSnow'; /* SF싸락눈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_HailSnow.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SF_HambakSnow'; /* SF함박눈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_HambakSnow.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TlabShinYB'; /* Tlab신영복체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/TlabSYB/TlabShinYB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ylee_Polymnia_Framed'; /* ylee Polymnia Framed */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ylee/ylee_Polymnia_Framed.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri14'; /* 갈무리14 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri14.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri11'; /* 갈무리11 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri11-Bold'; /* 갈무리11 굵음 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri11-Condensed'; /* 갈무리11 장체 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11-Condensed.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri9'; /* 갈무리9 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri9.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Galmuri7'; /* 갈무리7 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri7.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GalmuriMono11'; /* 갈무리11 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono11.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GalmuriMono9'; /* 갈무리9 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono9.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GalmuriMono7'; /* 갈무리7 */
+  src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono7.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ARCHISCULPTURE_v200'; /* 건축조각체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KimBS/ARCHISCULPTURE_v200.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Flower_Salt'; /* 꽃소금체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Salt/Flower_Salt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'neurimbo_Gothic'; /* 느림보 고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/neurimbo_Gothic/neurimbo_Gothic.woff2') format('woff2');
+}
+

@@ -1,265 +1,265 @@
 @font-face {
-    font-family: 'Diphylleia'; /* »êÇÏ¿±Ã¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Diphylleia'; /* ì‚°í•˜ì—½ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Diphylleia.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gowun_Batang_R'; /* °í¿î¹ÙÅÁ-Regular (±¸±ÛÆùÆ®) */
+    font-family: 'Gowun_Batang_R'; /* ê³ ìš´ë°”íƒ•-Regular (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Batang_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gowun_Batang_B'; /* °í¿î¹ÙÅÁ-Bold (±¸±ÛÆùÆ®) */
+    font-family: 'Gowun_Batang_B'; /* ê³ ìš´ë°”íƒ•-Bold (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Batang_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gowun_Dodum_R'; /* °í¿îµ¸¿òÃ¼-Regular (±¸±ÛÆùÆ®) */
+    font-family: 'Gowun_Dodum_R'; /* ê³ ìš´ë‹ì›€ì²´-Regular (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Gowun_Dodum_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Dongle_Light'; /* µ¿±Û-Light (±¸±ÛÆùÆ®) */
+    font-family: 'Dongle_Light'; /* ë™ê¸€-Light (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Dongle_Regular'; /* µ¿±Û-Regular (±¸±ÛÆùÆ®) */
+    font-family: 'Dongle_Regular'; /* ë™ê¸€-Regular (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Dongle_Bold'; /* µ¿±Û-Bold (±¸±ÛÆùÆ®) */
+    font-family: 'Dongle_Bold'; /* ë™ê¸€-Bold (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/yangheeryu/Dongle_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Thin'; /* ÇÔ²-Thin */
+    font-family: 'Hahmlet_Thin'; /* í•¨-Thin */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Thin.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_ExtraLight'; /* ÇÔ²-ExtraLight */
+    font-family: 'Hahmlet_ExtraLight'; /* í•¨-ExtraLight */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_ExtraLight.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Light'; /* ÇÔ²-Light */
+    font-family: 'Hahmlet_Light'; /* í•¨-Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Regular'; /* ÇÔ²-Regular */
+    font-family: 'Hahmlet_Regular'; /* í•¨-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Medium'; /* ÇÔ²-Medium */
+    font-family: 'Hahmlet_Medium'; /* í•¨-Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_SemiBold'; /* ÇÔ²-SemiBold */
+    font-family: 'Hahmlet_SemiBold'; /* í•¨-SemiBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_SemiBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Bold'; /* ÇÔ²-Bold */
+    font-family: 'Hahmlet_Bold'; /* í•¨-Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_ExtraBold'; /* ÇÔ²-ExtraBold */
+    font-family: 'Hahmlet_ExtraBold'; /* í•¨-ExtraBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_ExtraBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hahmlet_Black'; /* ÇÔ²-Black */
+    font-family: 'Hahmlet_Black'; /* í•¨-Black */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Hahmlet/Hahmlet_Black.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Black_Han_Sans'; /* °ËÀº °íµñ */
+    font-family: 'Black_Han_Sans'; /* ê²€ì€ ê³ ë”• */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Black_Han_Sans/Black_Han_Sans.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gasoek_One'; /* °¡¼®Ã¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Gasoek_One'; /* ê°€ì„ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Gasoek_One.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Moirai_One'; /* ¸ğÀÌ¶óÀÌÃ¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Moirai_One'; /* ëª¨ì´ë¼ì´ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Moirai_One.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Bagel_Fat_One'; /* º£ÀÌ±Û ÆÖÃ¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Bagel_Fat_One'; /* ë² ì´ê¸€ íŒ»ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Bagel_Fat_One.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Orbit'; /* ¿À¸£ºøÃ¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Orbit'; /* ì˜¤ë¥´ë¹—ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Orbit.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Grandiflora_One'; /* ´É¼ÒÈ­Ã¼ (±¸±ÛÆùÆ®) */
+    font-family: 'Grandiflora_One'; /* ëŠ¥ì†Œí™”ì²´ (êµ¬ê¸€í°íŠ¸) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JAMO/Grandiflora_One.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '109squirrel_tail'; /* 109´Ù¶÷Áã²¿¸®Ã¼ */
+    font-family: '109squirrel_tail'; /* 109ë‹¤ëŒì¥ê¼¬ë¦¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109squirrel_tail.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '109Box_tape'; /* 109¹Ú½ºÅ×ÀÌÇÁÃ¼ */
+    font-family: '109Box_tape'; /* 109ë°•ìŠ¤í…Œì´í”„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109Box_tape.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '109LeantheWall'; /* 109º®¿¡±â´íÃ¼ */
+    font-family: '109LeantheWall'; /* 109ë²½ì—ê¸°ëŒ„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/109LeantheWall.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '116watermelon'; /* 116¼ö¹ÚÈ­Ã¼ */
+    font-family: '116watermelon'; /* 116ìˆ˜ë°•í™”ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116watermelon.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '116angduk_honesty1.5'; /* 116¾Ş´öÁ¤Á÷1.5 */
+    font-family: '116angduk_honesty1.5'; /* 116ì•µë•ì •ì§1.5 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116angduk_honesty1.5.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '116angmuburi'; /* 116¾Ş¹«ºÎ¸® */
+    font-family: '116angmuburi'; /* 116ì•µë¬´ë¶€ë¦¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Desyell/116angmuburi.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DOSGothic'; /* µµ½º°íµñÃ¼ */
+    font-family: 'DOSGothic'; /* ë„ìŠ¤ê³ ë”•ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSGothic.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DOSMyungjo'; /* µµ½º¸íÁ¶Ã¼ */
+    font-family: 'DOSMyungjo'; /* ë„ìŠ¤ëª…ì¡°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSMyungjo.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DOSSaemmul'; /* µµ½º»ù¹°Ã¼ */
+    font-family: 'DOSSaemmul'; /* ë„ìŠ¤ìƒ˜ë¬¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSSaemmul.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DOSIyagiBoldface'; /* µµ½ºÀÌ¾ß±â ±½ÀºÃ¼ */
+    font-family: 'DOSIyagiBoldface'; /* ë„ìŠ¤ì´ì•¼ê¸° êµµì€ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSIyagiBoldface.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DOSPilgi'; /* µµ½ºÇÊ±âÃ¼ */
+    font-family: 'DOSPilgi'; /* ë„ìŠ¤í•„ê¸°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/DOSPilgi.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MiraeroNormal'; /* ¹Ì·¡·ÎÃ¼ */
+    font-family: 'MiraeroNormal'; /* ë¯¸ë˜ë¡œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/MiraeroNormal.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Sam3KRFont'; /* »ï±¹Áö3ÆùÆ® */
+    font-family: 'Sam3KRFont'; /* ì‚¼êµ­ì§€3í°íŠ¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dos_Style/Sam3KRFont.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGaeulsenggak_Thin'; /* HS°¡À»»ı°¢Ã¼1.0 Thin */
+    font-family: 'HSGaeulsenggak_Thin'; /* HSê°€ì„ìƒê°ì²´1.0 Thin */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulsenggak_Thin.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGaeulsenggak_Regular'; /* HS°¡À»»ı°¢Ã¼1.0 Regular */
+    font-family: 'HSGaeulsenggak_Regular'; /* HSê°€ì„ìƒê°ì²´1.0 Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulsenggak_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGaeulSenggak_2.0'; /* HS°¡À»»ı°¢Ã¼2.0 */
+    font-family: 'HSGaeulSenggak_2.0'; /* HSê°€ì„ìƒê°ì²´2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGaeulSenggak_2.0.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGyoulnoonkot'; /* HS°Ü¿ï´«²ÉÃ¼ */
+    font-family: 'HSGyoulnoonkot'; /* HSê²¨ìš¸ëˆˆê½ƒì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGyoulnoonkot.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGyoulnoonkot_2.0'; /* HS°Ü¿ï´«²ÉÃ¼2.0-Regular */
+    font-family: 'HSGyoulnoonkot_2.0'; /* HSê²¨ìš¸ëˆˆê½ƒì²´2.0-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGyoulnoonkot_2.0.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSGooltokki'; /* HS±¼Åä³¢Ã¼ */
+    font-family: 'HSGooltokki'; /* HSêµ´í† ë¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSGooltokki.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSDuggobi'; /* HSµÎ²¨ºñÃ¼ */
+    font-family: 'HSDuggobi'; /* HSë‘êº¼ë¹„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSDuggobi.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSBomBaram2.0'; /* HSº½¹Ù¶÷Ã¼2.0 */
+    font-family: 'HSBomBaram2.0'; /* HSë´„ë°”ëŒì²´2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram2.0.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSBombaram_2.1'; /* HSº½¹Ù¶÷Ã¼2.1 */
+    font-family: 'HSBombaram_2.1'; /* HSë´„ë°”ëŒì²´2.1 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBombaram_2.1.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSBomBaram3.0_Thin'; /* HSº½¹Ù¶÷Ã¼3.0_Thin */
+    font-family: 'HSBomBaram3.0_Thin'; /* HSë´„ë°”ëŒì²´3.0_Thin */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram3.0_Thin.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSBomBaram3.0_Regular'; /* HSº½¹Ù¶÷Ã¼3.0_Regular */
+    font-family: 'HSBomBaram3.0_Regular'; /* HSë´„ë°”ëŒì²´3.0_Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSBomBaram3.0_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSSantokki'; /* HS»êÅä³¢Ã¼-Regular */
+    font-family: 'HSSantokki'; /* HSì‚°í† ë¼ì²´-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSantokki.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSSaemaul'; /* HS»õ¸¶À»Ã¼ */
+    font-family: 'HSSaemaul'; /* HSìƒˆë§ˆì„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSaemaul.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSYeoleum'; /* HS¿©¸§¹°ºûÃ¼ */
+    font-family: 'HSYeoleum'; /* HSì—¬ë¦„ë¬¼ë¹›ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYeoleum.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSYeoleum_2.0'; /* HS¿©¸§¹°ºûÃ¼2.0 */
+    font-family: 'HSYeoleum_2.0'; /* HSì—¬ë¦„ë¬¼ë¹›ì²´2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYeoleum_2.0.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSYuji'; /* HSÀ¯ÁöÃ¼ */
+    font-family: 'HSYuji'; /* HSìœ ì§€ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSYuji.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSJiptokki_Black'; /* HSÁıÅä³¢-Black */
+    font-family: 'HSJiptokki_Black'; /* HSì§‘í† ë¼-Black */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJiptokki_Black.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HSJiptokki_Round'; /* HSÁıÅä³¢-Round */
+    font-family: 'HSJiptokki_Round'; /* HSì§‘í† ë¼-Round */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJiptokki_Round.woff2') format('woff2');
 }
 
@@ -304,67 +304,67 @@
 }
 
 @font-face {
-    font-family: 'KCC-Ganpan'; /* KCC-°£ÆÇÃ¼ */
+    font-family: 'KCC-Ganpan'; /* KCC-ê°„íŒì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ganpan.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Kimhwanki'; /* KCC-±èÈ¯±âÃ¼ */
+    font-family: 'KCC-Kimhwanki'; /* KCC-ê¹€í™˜ê¸°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Kimhwanki.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Kimhoon'; /* KCC-±èÈÆÃ¼ */
+    font-family: 'KCC-Kimhoon'; /* KCC-ê¹€í›ˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Kimhoon.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCCDodamdodam'; /* KCC-µµ´ãµµ´ãÃ¼ */
+    font-family: 'KCCDodamdodam'; /* KCC-ë„ë‹´ë„ë‹´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCDodamdodam.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Murukmuruk'; /* KCC-¹«·°¹«·°Ã¼ */
+    font-family: 'KCC-Murukmuruk'; /* KCC-ë¬´ëŸ­ë¬´ëŸ­ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Murukmuruk.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Sonkeechung'; /* KCC-¼Õ±âÁ¤Ã¼ */
+    font-family: 'KCC-Sonkeechung'; /* KCC-ì†ê¸°ì •ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Sonkeechung.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Ahnjunggeun'; /* KCC-¾ÈÁß±ÙÃ¼ */
+    font-family: 'KCC-Ahnjunggeun'; /* KCC-ì•ˆì¤‘ê·¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ahnjunggeun.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Ahnchangho'; /* KCC-¾ÈÃ¢È£Ã¼ */
+    font-family: 'KCC-Ahnchangho'; /* KCC-ì•ˆì°½í˜¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Ahnchangho.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-eunyoung'; /* KCC-Àº¿µÃ¼ */
+    font-family: 'KCC-eunyoung'; /* KCC-ì€ì˜ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-eunyoung.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCCImkwontaek'; /* KCC-ÀÓ±ÇÅÃÃ¼ */
+    font-family: 'KCCImkwontaek'; /* KCC-ì„ê¶Œíƒì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCImkwontaek.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Jeongbeom'; /* KCC-Á¤¹üÃ¼ */
+    font-family: 'KCC-Jeongbeom'; /* KCC-ì •ë²”ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Jeongbeom.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCCChassam'; /* KCC-Â÷½ÜÃ¼ */
+    font-family: 'KCCChassam'; /* KCC-ì°¨ìŒ¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCChassam.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KCC-Hanbit'; /* KCC-ÇÑºûÃ¼ */
+    font-family: 'KCC-Hanbit'; /* KCC-í•œë¹›ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCC-Hanbit.woff2') format('woff2');
 }
 
@@ -409,32 +409,32 @@
 }
 
 @font-face {
-    font-family: 'Neodgm'; /* NeoµÕ±Ù¸ğ */
+    font-family: 'Neodgm'; /* Neoë‘¥ê·¼ëª¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Neodgm/Neodgm.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SF_IceLemon'; /* SF·¹¸óºù¼ö */
+    font-family: 'SF_IceLemon'; /* SFë ˆëª¬ë¹™ìˆ˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_IceLemon.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SF_IceMango'; /* SF¸Á°íºù¼ö */
+    font-family: 'SF_IceMango'; /* SFë§ê³ ë¹™ìˆ˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_IceMango.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SF_HailSnow'; /* SF½Î¶ô´« */
+    font-family: 'SF_HailSnow'; /* SFì‹¸ë½ëˆˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_HailSnow.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SF_HambakSnow'; /* SFÇÔ¹Ú´« */
+    font-family: 'SF_HambakSnow'; /* SFí•¨ë°•ëˆˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Snowfrost/SF_HambakSnow.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'TlabShinYB'; /* Tlab½Å¿µº¹Ã¼ */
+    font-family: 'TlabShinYB'; /* Tlabì‹ ì˜ë³µì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/TlabSYB/TlabShinYB.woff2') format('woff2');
 }
 
@@ -444,62 +444,72 @@
 }
 
 @font-face {
-  font-family: 'Galmuri14'; /* °¥¹«¸®14 */
+  font-family: 'Galmuri14'; /* ê°ˆë¬´ë¦¬14 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri14.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Galmuri11'; /* °¥¹«¸®11 */
+  font-family: 'Galmuri11'; /* ê°ˆë¬´ë¦¬11 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Galmuri11-Bold'; /* °¥¹«¸®11 ±½À½ */
+  font-family: 'Galmuri11-Bold'; /* ê°ˆë¬´ë¦¬11 êµµìŒ */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11-Bold.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Galmuri11-Condensed'; /* °¥¹«¸®11 ÀåÃ¼ */
+  font-family: 'Galmuri11-Condensed'; /* ê°ˆë¬´ë¦¬11 ì¥ì²´ */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri11-Condensed.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Galmuri9'; /* °¥¹«¸®9 */
+  font-family: 'Galmuri9'; /* ê°ˆë¬´ë¦¬9 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri9.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Galmuri7'; /* °¥¹«¸®7 */
+  font-family: 'Galmuri7'; /* ê°ˆë¬´ë¦¬7 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri7.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'GalmuriMono11'; /* °¥¹«¸®11 */
+  font-family: 'GalmuriMono11'; /* ê°ˆë¬´ë¦¬11 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono11.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'GalmuriMono9'; /* °¥¹«¸®9 */
+  font-family: 'GalmuriMono9'; /* ê°ˆë¬´ë¦¬9 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono9.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'GalmuriMono7'; /* °¥¹«¸®7 */
+  font-family: 'GalmuriMono7'; /* ê°ˆë¬´ë¦¬7 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/GalmuriMono7.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ARCHISCULPTURE_v200'; /* °ÇÃàÁ¶°¢Ã¼ */
+    font-family: 'ARCHISCULPTURE_v200'; /* ê±´ì¶•ì¡°ê°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KimBS/ARCHISCULPTURE_v200.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Flower_Salt'; /* ²É¼Ò±İÃ¼ */
+    font-family: 'Flower_Salt'; /* ê½ƒì†Œê¸ˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Salt/Flower_Salt.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'neurimbo_Gothic'; /* ´À¸²º¸ °íµñ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/neurimbo_Gothic/neurimbo_Gothic.woff2') format('woff2');
+    font-family: 'neurimbo_Gothic'; /* ëŠë¦¼ë³´ ê³ ë”• */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Nangman/neurimbo_Gothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'drfont_daraehand'; /* ë‹¤ë˜ì†ê¸€ì”¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/drfont/drfont_daraehand.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Danjo-bold'; /* ë‹¨ì¡°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Danjo/Danjo-bold.woff2') format('woff2');
 }
 

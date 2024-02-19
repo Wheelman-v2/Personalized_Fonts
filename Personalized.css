@@ -513,3 +513,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Danjo/Danjo-bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Human_Beomseok'; /* 휴먼범석체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human_Beomseok.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sakaksakak'; /* 사각사각체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Sakaksakak.woff2') format('woff2');
+}

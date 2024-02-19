@@ -547,3 +547,8 @@
     font-family: 'Dovemayo_wild'; /* 거친 둘기마요 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dovemayo/Dovemayo_wild.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'DungGeunMo'; /* 둥근모꼴+ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DungGeunMo/DungGeunMo.woff2') format('woff2');
+}

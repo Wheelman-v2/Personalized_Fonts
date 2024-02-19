@@ -522,3 +522,8 @@
     font-family: 'Sakaksakak'; /* 사각사각체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Sakaksakak.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Donoun_Medium'; /* 두넌체 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Donoun/Donoun_Medium.woff2') format('woff2');
+}

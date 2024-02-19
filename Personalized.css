@@ -527,3 +527,23 @@
     font-family: 'Donoun_Medium'; /* 두넌체 M */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Donoun/Donoun_Medium.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'dovemayo_M'; /* 둘기마요체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dovemayo/dovemayo_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'dovemayo_B'; /* 둘기마요체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dovemayo/dovemayo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dovemayo_gothic'; /* 둘기마요_고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dovemayo/Dovemayo_gothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dovemayo_wild'; /* 거친 둘기마요 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Dovemayo/Dovemayo_wild.woff2') format('woff2');
+}

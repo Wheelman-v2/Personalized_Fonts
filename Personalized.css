@@ -552,3 +552,48 @@
     font-family: 'DungGeunMo'; /* 둥근모꼴+ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DungGeunMo/DungGeunMo.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Min_Sans_Thin'; /* Min Sans(민 산스) Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_ExtraLight'; /* Min Sans(민 산스) ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_Light'; /* Min Sans(민 산스) Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_Regular'; /* Min Sans(민 산스) Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_Medium'; /* Min Sans(민 산스) Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_SemiBold'; /* Min Sans(민 산스) SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_Bold'; /* Min Sans(민 산스) Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_ExtraBold'; /* Min Sans(민 산스) ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Min_Sans_Black'; /* Min Sans(민 산스) Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Black.woff2') format('woff2');
+}

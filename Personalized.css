@@ -597,3 +597,8 @@
     font-family: 'Min_Sans_Black'; /* Min Sans(민 산스) Black */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Min_Sans/Min_Sans_Black.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'FOUREYES'; /* 안경잡이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/FOUREYES/FOUREYES.woff2') format('woff2');
+}

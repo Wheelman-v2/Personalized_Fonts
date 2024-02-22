@@ -602,3 +602,8 @@
     font-family: 'FOUREYES'; /* 안경잡이체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/FOUREYES/FOUREYES.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'YANGJIN'; /* 양진체v0.9 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/YANGJIN/YANGJIN.woff2') format('woff2');
+}

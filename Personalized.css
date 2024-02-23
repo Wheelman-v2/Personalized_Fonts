@@ -510,7 +510,7 @@
 
 @font-face {
     font-family: 'Danjo-bold'; /* 단조체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Danjo/Danjo-bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/typejjun/Danjo-bold.woff2') format('woff2');
 }
 
 @font-face {
@@ -606,4 +606,9 @@
 @font-face {
     font-family: 'Windy_Lavender'; /* 윈디 라벤더체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Windy_Lavender/Windy_Lavender.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Partial_Sans_KR'; /* 파셜산스체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/typejjun/Partial_Sans_KR.woff2') format('woff2');
 }

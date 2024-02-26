@@ -612,3 +612,48 @@
     font-family: 'Partial_Sans_KR'; /* 파셜산스체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/typejjun/Partial_Sans_KR.woff2') format('woff2');
 }
+
+@font-face {
+	font-family: 'Pretendard-Thin'; /* 프리텐다드 Thin */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Thin.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-ExtraLight'; /* 프리텐다드 ExtraLight */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-ExtraLight.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-Light'; /* 프리텐다드 Light */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Light.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-Regular'; /* 프리텐다드 Regular */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Regular.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-Medium'; /* 프리텐다드 Medium */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Medium.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-SemiBold'; /* 프리텐다드 SemiBold */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-SemiBold.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-Bold'; /* 프리텐다드 Bold */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Bold.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-ExtraBold'; /* 프리텐다드 Extra Bold */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-ExtraBold.subset.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Pretendard-Black'; /* 프리텐다드 Black */
+	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Black.subset.woff2') format('woff2');
+}

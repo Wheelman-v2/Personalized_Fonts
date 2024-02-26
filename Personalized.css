@@ -657,3 +657,8 @@
 	font-family: 'Pretendard-Black'; /* 프리텐다드 Black */
 	src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pretendard/Pretendard-Black.subset.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Pilseung_Gothic'; /* 필승 고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pilseung_Gothic/Pilseung_Gothic.woff2') format('woff2');
+}

@@ -1487,3 +1487,8 @@
     font-family: 'UhBee_Heeyom'; /* 어비 히욤체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/UhBeeFONT/UhBee_Heeyom.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'dalmoori'; /* 달무리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/dalmoori/dalmoori.woff2') format('woff2');
+}

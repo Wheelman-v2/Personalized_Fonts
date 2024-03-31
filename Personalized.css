@@ -444,6 +444,11 @@
 }
 
 @font-face {
+    font-family: 'ylee_MHIM'; /* ylee 추억은 잠들지 않는다 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ylee/ylee_MHIM.woff2') format('woff2');
+}
+
+@font-face {
   font-family: 'Galmuri14'; /* 갈무리14 */
   src: url('https://cdn.jsdelivr.net/npm/galmuri/dist/Galmuri14.woff2') format('woff2');
 }

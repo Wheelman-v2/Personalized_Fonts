@@ -1497,3 +1497,8 @@
     font-family: 'dalmoori'; /* 달무리체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/dalmoori/dalmoori.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Adultkid'; /* 어른아이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Adultkid.woff2') format('woff2');
+}

@@ -1502,3 +1502,48 @@
     font-family: 'Adultkid'; /* 어른아이체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Adultkid.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Freesentation_1_Thin'; /* 프리젠테이션-1Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_2_ExtraLight'; /* 프리젠테이션-2ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_2_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_3_Light'; /* 프리젠테이션-3Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_3_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_4_Regular'; /* 프리젠테이션-4Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_4_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_5_Medium'; /* 프리젠테이션-5Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_5_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_6_SemiBold'; /* 프리젠테이션-6SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_6_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_7_Bold'; /* 프리젠테이션-7Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_7_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_8_ExtraBold'; /* 프리젠테이션-8ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_8_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Freesentation_9_Black'; /* 프리젠테이션-9Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_9_Black.woff2') format('woff2');
+}

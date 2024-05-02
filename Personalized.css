@@ -1547,3 +1547,8 @@
     font-family: 'Freesentation_9_Black'; /* 프리젠테이션-9Black */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Freesentation/Freesentation_9_Black.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'HSSanTokki_2.0'; /* HS산토끼체2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSanTokki_2.0.woff2') format('woff2');
+}

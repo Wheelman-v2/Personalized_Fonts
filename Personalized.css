@@ -1552,3 +1552,9 @@
     font-family: 'HSSanTokki_2.0'; /* HS산토끼체2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSSanTokki_2.0.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'CHOGOON_Chicken_Scratch_V2_Medium'; /* 조군 개발새발 v2 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_Chicken_Scratch_V2_Medium.woff2') format('woff2');
+}
+

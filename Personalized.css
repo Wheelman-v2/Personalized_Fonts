@@ -1558,3 +1558,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_Chicken_Scratch_V2_Medium.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'CHOGOON_CHICKEN_SCRATCH_V3'; /* 조군 개발새발 V3 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_CHICKEN_SCRATCH_V3.woff2') format('woff2');
+}

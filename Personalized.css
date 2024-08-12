@@ -1562,3 +1562,23 @@
     font-family: 'CHOGOON_CHICKEN_SCRATCH_V3'; /* 조군 개발새발 V3 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_CHICKEN_SCRATCH_V3.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'goorm-sans-regular'; /* 구름 산스 regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/goorm_sans/goorm-sans-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'goorm-sans-medium'; /* 구름 산스 medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/goorm_sans/goorm-sans-medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'goorm-sans-bold'; /* 구름 산스 bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/goorm_sans/goorm-sans-bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'goorm-sans-code'; /* 구름 산스 code */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/goorm_sans/goorm-sans-code.woff2') format('woff2');
+}

@@ -1582,3 +1582,49 @@
     font-family: 'goorm-sans-code'; /* 구름 산스 code */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/goorm_sans/goorm-sans-code.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Paperlogy_1_Thin'; /* Paperlogy-1Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_2_ExtraLight'; /* Paperlogy-2ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_2_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_3_Light'; /* Paperlogy-3Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_3_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_4_Regular'; /* Paperlogy-4Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_4_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_5_Medium'; /* Paperlogy-5Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_5_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_6_SemiBold'; /* Paperlogy-6SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_6_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_7_Bold'; /* Paperlogy-7Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_7_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_8_ExtraBold'; /* Paperlogy-8ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_8_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Paperlogy_9_Black'; /* Paperlogy-9Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Paperlogy/Paperlogy_9_Black.woff2') format('woff2');
+}
+

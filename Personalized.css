@@ -1638,4 +1638,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_CHICKEN_SCRATCH_V6.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'NoonnuBasicGothic_Regular'; /* 눈누 기초고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/NoonnuBasicGothic_Regular.woff2') format('woff2');
+}
+
 

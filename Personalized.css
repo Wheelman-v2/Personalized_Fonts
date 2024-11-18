@@ -1653,3 +1653,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/UhBeeFONT/UhBee_AnnieHan.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KCCBangJeonghwan'; /* KCC방정환체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCBangJeonghwan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KCCBangJeonghwanV'; /* KCC방정환체 세로쓰기*/
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCBangJeonghwanV.woff2') format('woff2');
+}
+

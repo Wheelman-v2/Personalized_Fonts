@@ -1663,3 +1663,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCBangJeonghwanV.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KCCHyerim'; /* KCC혜림체*/
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCHyerim.woff2') format('woff2');
+}
+

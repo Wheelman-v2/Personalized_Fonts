@@ -1668,3 +1668,38 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/KCC/KCCHyerim.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Thin'; /* 휴먼범석체 네오-Thin.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Extralight'; /* 휴먼범석체 네오-Extralight.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Extralight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Light'; /* 휴먼범석체 네오-Light.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo'; /* 휴먼범석체 네오-Regular.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Medium'; /* 휴먼범석체 네오-Medium.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Semibold'; /* 휴먼범석체 네오-Semibold.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Semibold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Human-Beomseok_Neo_Bold'; /* 휴먼범석체 네오-Bold.ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Bold.woff2') format('woff2');
+}
+

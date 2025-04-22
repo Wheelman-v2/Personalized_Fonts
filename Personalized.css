@@ -1703,3 +1703,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Beomseok/Human-Beomseok_Neo_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'PyeojinGothic-Light'; /* 펴진 고딕 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pyeojin_Gothic/PyeojinGothic-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PyeojinGothic-Regular'; /* 펴진 고딕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pyeojin_Gothic/PyeojinGothic-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PyeojinGothic-Bold'; /* 펴진 고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pyeojin_Gothic/PyeojinGothic-Bold.woff2') format('woff2');
+}

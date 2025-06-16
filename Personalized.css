@@ -1727,3 +1727,33 @@
     font-family: 'exqt'; /* 엑큐 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/exqt/exqt.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'PF_Stardust'; /* PF스타더스트 3.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PF_Stardust_Bold'; /* PF스타더스트 3.0 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PF_Stardust_ExtraBold'; /* PF스타더스트 3.0 ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PF_Stardust_S'; /* PF스타더스트 3.0 S */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_S.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PF_Stardust_S_Bold'; /* PF스타더스트 3.0 S Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_S_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PF_Stardust_S_ExtraBold'; /* PF스타더스트 3.0 S ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_S_ExtraBold.woff2') format('woff2');
+}

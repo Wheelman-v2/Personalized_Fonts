@@ -1757,3 +1757,8 @@
     font-family: 'PF_Stardust_S_ExtraBold'; /* PF스타더스트 3.0 S ExtraBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/PFstardust/PF_Stardust_S_ExtraBold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Pixelroborobo'; /* 픽셀로보로보체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pixelroborobo/Pixelroborobo.woff2') format('woff2');
+}

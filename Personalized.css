@@ -1717,3 +1717,8 @@
     font-family: 'PyeojinGothic-Bold'; /* 펴진 고딕 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pyeojin_Gothic/PyeojinGothic-Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'BoldDungGeunMo_Regular'; /* 굵은둥근모 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/BoldDunggeunmo/BoldDungGeunMo_Regular.woff2') format('woff2');
+}

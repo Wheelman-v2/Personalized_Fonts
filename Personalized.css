@@ -1762,3 +1762,8 @@
     font-family: 'Pixelroborobo'; /* 픽셀로보로보체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Pixelroborobo/Pixelroborobo.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'LanaPixel'; /* LanaPixel */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LanaPixel/LanaPixel.woff2') format('woff2');
+}

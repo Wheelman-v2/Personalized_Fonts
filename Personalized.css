@@ -1772,3 +1772,9 @@
     font-family: 'LanaPixel'; /* LanaPixel */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LanaPixel/LanaPixel.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'CHOGOON_CHICKEN_SCRATCH_V7'; /* 조군 개발새발 V7 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_CHICKEN_SCRATCH_V7.woff2') format('woff2');
+}
+

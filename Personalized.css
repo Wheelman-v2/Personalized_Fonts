@@ -1778,3 +1778,14 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/CHOGOON/CHOGOON_CHICKEN_SCRATCH_V7.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'yuseol'; /* 유설체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Seol/yuseol.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'mannyeonseol'; /* 만년설체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Seol/mannyeonseol.woff2') format('woff2');
+}
+
+

@@ -1789,3 +1789,23 @@
 }
 
 
+@font-face {
+    font-family: '[Kim]KJDcom_Medium'; /* [김씨]김정대2벌체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Kim/[Kim]KJDcom_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '[Kim]KJDHW_Regular'; /* [김씨]손글씨-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Kim/[Kim]KJDHW_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '[KIM]sonmas_Light'; /* [김씨]손맛체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Kim/[KIM]sonmas_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '[KIM]WILDgag_Bold'; /* [김씨]와일드각-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Kim/[KIM]WILDgag_Bold.woff2') format('woff2');
+}
+

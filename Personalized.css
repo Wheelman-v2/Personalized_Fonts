@@ -1809,3 +1809,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Kim/[KIM]WILDgag_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Hungeul'; /* 헌글 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EPIDGames/Hungeul.woff2') format('woff2');
+}
+
+

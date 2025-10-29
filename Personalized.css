@@ -1814,4 +1814,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EPIDGames/Hungeul.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'HSJandari'; /* HS잔다리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJandari.woff2') format('woff2');
+}
 

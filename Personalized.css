@@ -1819,3 +1819,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSJandari.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ThinDungGeunMo_Regular'; /* 얇은둥근모 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/BoldDunggeunmo/ThinDungGeunMo_Regular.woff2') format('woff2');
+}
+

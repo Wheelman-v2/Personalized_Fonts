@@ -1824,3 +1824,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/BoldDunggeunmo/ThinDungGeunMo_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Mulmaru_Mono'; /* 물마루 Mono */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Mulmaru/Mulmaru_Mono.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Mulmaru'; /* 물마루체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Mulmaru/Mulmaru.woff2') format('woff2');
+}
+

@@ -1834,3 +1834,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Mulmaru/Mulmaru.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'RF대충쓴준우체v3'; /* RF대충쓴준우체v3 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JunWoo/RF대충쓴준우체v3.woff2') format('woff2');
+}
+

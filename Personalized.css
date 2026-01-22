@@ -1839,4 +1839,48 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/JunWoo/RFJunWoov3.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'A2Z_1_Thin'; /* 에이투지체-1Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_2_ExtraLight'; /* 에이투지체-2ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_2_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_3_Light'; /* 에이투지체-3Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_3_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_4_Regular'; /* 에이투지체-4Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_4_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_5_Medium'; /* 에이투지체-5Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_5_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_6_SemiBold'; /* 에이투지체-6SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_6_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_7_Bold'; /* 에이투지체-7Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_7_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_8_ExtraBold'; /* 에이투지체-8ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_8_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'A2Z_9_Black'; /* 에이투지체-9Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_9_Black.woff2') format('woff2');
+}
 

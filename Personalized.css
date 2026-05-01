@@ -1884,3 +1884,43 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/A2Z/A2Z_9_Black.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'HSHwalkongSerif_Regular'; /* HS활공명조-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HS/HSHwalkongSerif-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Light'; /* LXGW 문해-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_KR_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Medium'; /* LXGW 문해-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_KR_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Regular'; /* LXGW 문해-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_KR_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Mono_Light'; /* LXGW 문해 모노-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_Mono_KR_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Mono_Medium'; /* LXGW 문해 모노-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_Mono_KR_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LXGW_WenKai_Mono_Regular'; /* LXGW 문해 모노-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LXGW/LXGW_WenKai_Mono_KR_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'x12y12pxMaruMinyaHangul'; /* 마루미냐 한글 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/MaruMinya/x12y12pxMaruMinyaHangul.woff2') format('woff2');
+}
+

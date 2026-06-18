@@ -1954,3 +1954,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_SemiLight.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Puzzle_Sans'; /* 퍼즐체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ca_prico/Puzzle_Sans.woff2') format('woff2');
+}

@@ -1958,3 +1958,8 @@
     font-family: 'Puzzle_Sans'; /* 퍼즐체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ca_prico/Puzzle_Sans.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Terrarum_Sans_Bitmap'; /* TerrarumSansBitmap */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Terrarum/Terrarum_Sans_Bitmap.woff2') format('woff2');
+}

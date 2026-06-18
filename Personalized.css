@@ -1924,3 +1924,33 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/MaruMinya/x12y12pxMaruMinyaHangul.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Casquare_Code_Std_Bold'; /* 카스퀘어 코드-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Casquare_Code_Std_ExtraLight'; /* 카스퀘어 코드-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Casquare_Code_Std_Light'; /* 카스퀘어 코드-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Casquare_Code_Std_Regular'; /* 카스퀘어 코드-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Casquare_Code_Std_SemiBold'; /* 카스퀘어 코드-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Casquare_Code_Std_SemiLight'; /* 카스퀘어 코드-SemiLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Casquare_Code/Casquare_Code_Std_SemiLight.woff2') format('woff2');
+}
+

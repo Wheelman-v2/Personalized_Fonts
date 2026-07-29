@@ -1921,7 +1921,7 @@
 
 @font-face {
     font-family: 'x12y12pxMaruMinyaHangul'; /* 마루미냐 한글 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/MaruMinya/x12y12pxMaruMinyaHangul.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LeeMS/x12y12pxMaruMinyaHangul.woff2') format('woff2');
 }
 
 @font-face {
@@ -1972,4 +1972,9 @@
 @font-face {
     font-family: 'Jayeon_Sans_Regular'; /* 자연산스-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/SJH/Jayeon_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'x10y12pxDenkiChipHangul'; /* 전기칩_한글 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LeeMS/x10y12pxDenkiChipHangul.woff2') format('woff2');
 }

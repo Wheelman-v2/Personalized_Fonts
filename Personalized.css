@@ -1978,3 +1978,13 @@
     font-family: 'x10y12pxDenkiChipHangul'; /* 전기칩_한글 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/LeeMS/x10y12pxDenkiChipHangul.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'ThinMulmaru_Mono'; /* 얇은물마루 Mono */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ThinMulmaru/ThinMulmaru_Mono.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ThinMulmaru'; /* 얇은물마루 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/ThinMulmaru/ThinMulmaru.woff2') format('woff2');
+}

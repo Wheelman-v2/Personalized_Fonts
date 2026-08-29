@@ -2004,3 +2004,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/qhtjr1116/DreamHeumulKR.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'LDotted'; /* 엘점선체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/SJW/LDotted.woff2') format('woff2');
+}
+

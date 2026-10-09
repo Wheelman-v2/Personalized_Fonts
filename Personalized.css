@@ -2009,3 +2009,63 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/SJW/LDotted.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: '느좋체_B'; /* 느좋체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/느좋체_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '느좋체_R'; /* 느좋체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/느좋체_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '야르체_B'; /* 야르체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/야르체_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '야르체_R'; /* 야르체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/야르체_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ajaseu'; /* 아자스체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/Ajaseu.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '신야르체_B'; /* 신야르체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/신야르체_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '신야르체_R'; /* 신야르체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/신야르체_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gamdasal'; /* 감다살체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/Gamdasal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '떡상체'; /* 떡상체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/떡상체.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '히피체'; /* 히피체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/히피체.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '한굴림체_Bold'; /* 한굴림체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/한굴림체_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '한굴림체_Regular'; /* 한굴림체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/한굴림체_Regular.woff2') format('woff2');
+}
+

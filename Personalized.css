@@ -2010,23 +2010,23 @@
 }
 
 @font-face {
-    font-family: '느좋체_B'; /* 느좋체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/느좋체_B.woff2') format('woff2');
+    font-family: 'neujohche_B'; /* 느좋체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/neujohche_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '느좋체_R'; /* 느좋체R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/느좋체_R.woff2') format('woff2');
+    font-family: 'neujohche_R'; /* 느좋체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/neujohche_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '야르체_B'; /* 야르체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/야르체_B.woff2') format('woff2');
+    font-family: 'yareuche_B'; /* 야르체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/yareuche_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '야르체_R'; /* 야르체R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/야르체_R.woff2') format('woff2');
+    font-family: 'yareuche_R'; /* 야르체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/yareuche_R.woff2') format('woff2');
 }
 
 @font-face {
@@ -2035,13 +2035,13 @@
 }
 
 @font-face {
-    font-family: '신야르체_B'; /* 신야르체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/신야르체_B.woff2') format('woff2');
+    font-family: 'sinyareuche_B'; /* 신야르체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/sinyareuche_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '신야르체_R'; /* 신야르체R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/신야르체_R.woff2') format('woff2');
+    font-family: 'sinyareuche_R'; /* 신야르체R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/sinyareuche_R.woff2') format('woff2');
 }
 
 @font-face {
@@ -2050,22 +2050,21 @@
 }
 
 @font-face {
-    font-family: '떡상체'; /* 떡상체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/떡상체.woff2') format('woff2');
+    font-family: 'tteoksangche'; /* 떡상체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/tteoksangche.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '히피체'; /* 히피체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/히피체.woff2') format('woff2');
+    font-family: 'hipiche'; /* 히피체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/hipiche.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '한굴림체_Bold'; /* 한굴림체-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/한굴림체_Bold.woff2') format('woff2');
+    font-family: 'hangullimche_Bold'; /* 한굴림체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/hangullimche_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '한굴림체_Regular'; /* 한굴림체-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/한굴림체_Regular.woff2') format('woff2');
+    font-family: 'hangullimche_Regular'; /* 한굴림체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/hangullimche_Regular.woff2') format('woff2');
 }
-

@@ -2028,3 +2028,194 @@
     font-family: 'hangullimche_Regular'; /* 한굴림체-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/AIollcut/hangullimche_Regular.woff2') format('woff2');
 }
+
+
+@font-face {
+    font-family: 'Tuktakpotato'; /* 뚝딱감자체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Gwidaengi/Tuktakpotato.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp_Bold'; /* 레벨업-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp_Bold_1'; /* 레벨업-BoldItalic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp_Bold_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp'; /* 레벨업-Italic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp_Regular'; /* 레벨업-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp_SemiBold'; /* 레벨업-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LevelUp_SemiBold_1'; /* 레벨업-SemiBoldItalic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/LevelUp_SemiBold_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dancing_Peoples_Mono'; /* 춤추는사람들 고정폭 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Dancing_Peoples_Mono.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dancing_Peoples'; /* 춤추는사람들 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Dancing_Peoples.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Round_Black'; /* 하다 라운드-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Round_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Round_Bold'; /* 하다 라운드-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Round_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Round_Light'; /* 하다 라운드-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Round_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Round_Medium'; /* 하다 라운드-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Round_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Round_Regular'; /* 하다 라운드-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Round_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Mono_Bold'; /* 하다 모노-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Mono_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Mono_Regular'; /* 하다 모노-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Mono_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Batang'; /* 하다 바탕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Batang.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Black'; /* 하다 산스-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Bold'; /* 하다 산스-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_ExtraBold'; /* 하다 산스-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_ExtraLight'; /* 하다 산스-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Light'; /* 하다 산스-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Medium'; /* 하다 산스-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Regular'; /* 하다 산스-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_SemiBold'; /* 하다 산스-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Sans_Thin'; /* 하다 산스-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Sans_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Condensed_Bold'; /* 하다 콘덴스드-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Condensed_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Condensed_ExtraBold'; /* 하다 콘덴스드-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Condensed_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Condensed_Light'; /* 하다 콘덴스드-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Condensed_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Condensed_Medium'; /* 하다 콘덴스드-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Condensed_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hada_Condensed_Regular'; /* 하다 콘덴스드-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/HADA_TYPE/Hada_Condensed_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gyeol_Sans_Bold'; /* 결고딕-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/GyeolSans/Gyeol_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gyeol_Sans_Light'; /* 결고딕-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/GyeolSans/Gyeol_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gyeol_Sans_Regular'; /* 결고딕-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/GyeolSans/Gyeol_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kkakdugi_Drafting_Bold'; /* 깍두기 도면체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DynamicPotato/Kkakdugi_Drafting_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kkakdugi_Drafting_ExtraLight'; /* 깍두기 도면체-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DynamicPotato/Kkakdugi_Drafting_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kkakdugi_Drafting_Light'; /* 깍두기 도면체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DynamicPotato/Kkakdugi_Drafting_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kkakdugi_Drafting_Regular'; /* 깍두기 도면체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/DynamicPotato/Kkakdugi_Drafting_Regular.woff2') format('woff2');
+}

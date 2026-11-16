@@ -2705,3 +2705,58 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_SemiLight.woff2') format('woff2');
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'HEEJOY_Black'; /* 히조이-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Black.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_Bold'; /* 히조이-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_ExtraBold'; /* 히조이-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_ExtraBold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_ExtraLight'; /* 히조이-ExtraLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_ExtraLight.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_Light'; /* 히조이-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_Medium'; /* 히조이-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Medium.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_Regular'; /* 히조이-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_SemiBold'; /* 히조이-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_SemiBold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEEJOY_Thin'; /* 히조이-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/KHJ/HEEJOY_Thin.woff2') format('woff2');
+    font-display: swap;
+}
+

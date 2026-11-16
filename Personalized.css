@@ -2760,3 +2760,26 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Gyun_Gothic_Bold'; /* 균고딕-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/LYJ/Gyun_Gothic_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gyun_Gothic_Regular'; /* 균고딕-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/LYJ/Gyun_Gothic_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gyun_Myeongjo_Bold'; /* 균명조-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/LYJ/Gyun_Myeongjo_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gyun_Myeongjo_Regular'; /* 균명조-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/LYJ/Gyun_Myeongjo_Regular.woff2') format('woff2');
+    font-display: swap;
+}

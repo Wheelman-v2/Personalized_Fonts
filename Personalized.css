@@ -2663,3 +2663,45 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/DynamicPotato/Kkakdugi_Drafting_Regular.woff2') format('woff2');
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Modu_Dunggeul_Pen_Bold'; /* 모두의 둥근펜-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/yskim3271/Modu_Dunggeul_Pen_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Modu_Dunggeul_Pen_Regular'; /* 모두의 둥근펜-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/yskim3271/Modu_Dunggeul_Pen_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HSHwalgongGulim_Bold'; /* HS활공굴림-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HSHwalgongGulim_Light'; /* HS활공굴림-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HSHwalgongGulim_Medium'; /* HS활공굴림-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_Medium.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HSHwalgongGulim_Regular'; /* HS활공굴림-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HSHwalgongGulim_SemiLight'; /* HS활공굴림-SemiLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts@main/HS/HSHwalgongGulim_SemiLight.woff2') format('woff2');
+    font-display: swap;
+}
